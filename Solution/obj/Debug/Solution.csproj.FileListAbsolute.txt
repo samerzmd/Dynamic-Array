@@ -1,0 +1,6 @@
+c:\users\samergigabyte\documents\visual studio 2017\Projects\Solution\Solution\bin\Debug\Solution.exe.config
+c:\users\samergigabyte\documents\visual studio 2017\Projects\Solution\Solution\bin\Debug\Solution.exe
+c:\users\samergigabyte\documents\visual studio 2017\Projects\Solution\Solution\bin\Debug\Solution.pdb
+c:\users\samergigabyte\documents\visual studio 2017\Projects\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+c:\users\samergigabyte\documents\visual studio 2017\Projects\Solution\Solution\obj\Debug\Solution.exe
+c:\users\samergigabyte\documents\visual studio 2017\Projects\Solution\Solution\obj\Debug\Solution.pdb
